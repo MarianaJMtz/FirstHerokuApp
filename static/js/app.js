@@ -69,9 +69,7 @@ function buildMetadata(sample) {
          type: 'path',
          path: path,
          fillcolor: '850000',
-         line:{
-           color: '850000'
-         }
+         
        }],
        title:'<b>Belly Button Washing Frequency</b> <br> Scrubs per Week',
        //height: 1000,
